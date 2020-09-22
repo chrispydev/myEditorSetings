@@ -1,0 +1,69 @@
+{
+	"atomic_save": false,
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"node_modules/*"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+	"detect_indentation": false,
+	"esversion": 6,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.sublime-workspace"
+	],
+	"font_face": "Operator Mono Book",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"AppleScript",
+		"ASP",
+		"D",
+		"Diff",
+		"Erlang",
+		"Graphviz",
+		"Groovy",
+		"Lisp",
+		"Lua",
+		"Objective-C",
+		"OCaml",
+		"Rails",
+		"Ruby",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"scroll_past_end": true,
+	"show_definitions": false,
+	"show_encoding": true,
+	"show_errors_inline": false,
+	"show_full_path": false,
+	"tab_space": 4,
+	"theme": "Material Monokai.sublime-theme"
+}
