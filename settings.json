@@ -15,7 +15,7 @@
   "editor.tabCompletion": "on",
   "editor.tabSize": 4,
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000,
+  "files.autoSaveDelay": 5000,
   "search.showLineNumbers": true,
   "workbench.colorCustomizations": {},
   "zenMode.centerLayout": false,
@@ -42,5 +42,10 @@
   "explorer.confirmDragAndDrop": false,
   "python.showStartPage": false,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "extensions.autoUpdate": false
+  "extensions.autoUpdate": false,
+  "workbench.iconTheme": "vscode-great-icons",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "update.mode": "manual"
 }
